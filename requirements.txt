@@ -12,3 +12,4 @@ httpx
 google
 flask
 pyTelegramBotAPI
+gunicorn
